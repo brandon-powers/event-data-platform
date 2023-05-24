@@ -1,0 +1,12 @@
+__pycache__
+*.db
+*venv*
+*idea
+edp.log
+*generated*
+*postgresql
+*mypy_cache*
+data/events-*
+data/test_*
+data/*_report-*.csv
+reports/*.csv
